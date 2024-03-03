@@ -1,0 +1,14 @@
+{
+  "name": "ann",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Slouchwind",
+  "license": "MIT",
+  "scripts": {
+    "start": "tsc && node ./dist/"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.24"
+  },
+  "dependencies": {}
+}
